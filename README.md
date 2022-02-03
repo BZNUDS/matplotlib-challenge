@@ -3,7 +3,7 @@
 My work can be found at https://github.com/BZNUDS/matplotlib-challenge/tree/main/Pymaceuticals
 
     Jupyter Notebook File: pymaceuticals.ipynb 
-    Analysis File: pymaceuticals_analysis.docx
+    Analysis File: pymaceuticals_analysis.docx (the analysis is also incorporated into the pymaceuticals.ipynb Jupyter Notebook)
 
 Our Pymaceuticals company specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer. As a senior data analyst at the company, I've been given access to the complete data from their most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatments.
 =======
